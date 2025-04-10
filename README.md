@@ -58,6 +58,6 @@ Will generate:
 
 And a `combinations.log` file containing the mapping of each combination. 
 
-== Development
+## Development
 
     RUST_BACKTRACE=1 cargo run --release -- NNN_math.js
